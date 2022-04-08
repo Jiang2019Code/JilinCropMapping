@@ -1,6 +1,7 @@
 # JilinCropMapping
 
 Class Value:
+
 0:Background
 
 1:Corn
