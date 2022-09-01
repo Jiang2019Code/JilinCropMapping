@@ -24,4 +24,4 @@ Class Value:
 
 10:Other
 
-Since the article has not been published, if you are interested in our data. The unzip password can be contacted by email:Jiangdy16@mails.jlu.edu.cn
+If you are interested in our data or want to cooperate,please contact us. The unzip password can be contacted by email:Jiangdy16@mails.jlu.edu.cn
